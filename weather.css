@@ -149,3 +149,9 @@ main{
 .desc{
     color: rgb(196, 255, 77);
 }
+.learn-more{
+    margin-left: 550px;
+    color: orchid;
+    background-color: blue;
+}
+   
